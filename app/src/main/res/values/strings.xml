@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mark My Word</string>
+
+    <!-- alert msg -->
+    <string name="no_internet">No Internet :(</string>
+    <string name="network_error_msg">Network connection is not available. Choose either of the options to get connected to a network.</string>
+    <string name="wifi">WiFi</string>
+    <string name="wifi_on">Wifi Turning On</string>
+    <string name="mobile_data">Mobile Data</string>
+    <string name="cancel">Cancel</string>
+    <string name="process_terminated">Process Terminated!</string>
+    <string name="please_connect_to_internet">Please Connect to Internet</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--test string-->
+    <string name="description">Lalamove</string>
+    <string name="address">Address</string>
+    <string name="cancel_layout">X</string>
+
+
+</resources>
